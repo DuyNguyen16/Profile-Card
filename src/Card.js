@@ -92,7 +92,7 @@ const Card = () => {
             <div className="w-3/4 items-center justify-center">
               <h1 className="text-center text-sm">
                 I'm Duy Nguyen, a software developer with a love for both coding
-                and socializing. I thrive on learning, be it in the realm of
+                and socialising. I thrive on learning, be it in the realm of
                 technology or the experiences life has to offer. My cheerful
                 personality adds a positive vibe to any environment, and I'm
                 always excited about new challenges and opportunities for
